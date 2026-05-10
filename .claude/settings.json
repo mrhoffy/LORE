@@ -1,0 +1,39 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo '[SBOS] File written. Remember to update 1 | Wiki/index.md and append to 1 | Wiki/log.md if this was a wiki page.'"
+          }
+        ]
+      }
+    ],
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo '[SBOS] Running shell command. Confirm this is not destructive before proceeding.'"
+          }
+        ]
+      }
+    ]
+  },
+  "permissions": {
+    "allow": [
+      "Read(*)",
+      "Write(1 | Wiki/**)",
+      "Write(9 | Reference/**)",
+      "Edit(1 | Wiki/**)",
+      "Edit(9 | Reference/**)"
+    ],
+    "deny": [
+      "Write(0 | Raw/**)",
+      "Edit(0 | Raw/**)"
+    ]
+  }
+}

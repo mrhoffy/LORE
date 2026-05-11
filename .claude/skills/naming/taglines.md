@@ -38,7 +38,7 @@ Action-oriented. Tells the user what they'll do with the product.
 
 - "Ship your code with confidence"
 - "Monitor your infrastructure"
-- "Organize your second brain"
+- "Organize your working knowledge base"
 
 **When to use:** When the product's primary action is its selling point.
 

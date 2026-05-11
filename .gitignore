@@ -6,36 +6,29 @@
 .obsidian/snippets/
 
 # Personal reference files — fill these in locally, do not commit
-9 | Reference/identity.md
-9 | Reference/comms.md
-9 | Reference/preferences.md
-9 | Reference/context.md
+~ Reference/
 
 # Raw source files — your personal data, do not commit
-0 | Raw/
-Granola/
+Raw/
+Meeting Notes/
 
 # Live wiki content — your personal knowledge, not the template
-1 | Wiki/People/
-1 | Wiki/Projects/
-1 | Wiki/Companies/
-1 | Wiki/Decisions/
-1 | Wiki/Analyses/
-1 | Wiki/Exports/
-1 | Wiki/hot.md
-1 | Wiki/log.md
+Wiki/Network/
+Wiki/Initiatives/
+Wiki/Knowledge/
+Wiki/Exports/
+Wiki/Ledger/
+Wiki/hot.md
+Wiki/log.md
+Wiki/~System/skill-observations/
+Wiki/~System/skill-updates/
+Wiki/~System/compass/
+Wiki/~System/logs/
+Wiki/~System/health/
 
-# Task and output content
-2 | Tasks/todo/
-2 | Tasks/handoff/
-2 | Tasks/review/
-2 | Tasks/done/
-2 | Tasks/archived/
-4 | Outputs/
-
-# Operations logs and health (contain runtime data)
-3 | Operations/logs/
-3 | Operations/health/
+# Canon — personal company knowledge, do not commit
+Canon/customers/
+Canon/proposals/
 
 # Graphify runtime artifacts
 graphify-out/cache/

@@ -16,11 +16,11 @@ Any time prose needs to be written: emails, Slack messages, memos, updates, prop
 
 ## Steps
 
-1. Read `9 | Reference/comms.md` — always, without exception
-2. Read `9 | Reference/identity.md` for personal context if relevant
+1. Read `~ Reference/comms.md` — always, without exception
+2. Read `~ Reference/identity.md` for personal context if relevant
 3. Read linked wiki pages for the people and projects involved
 4. Draft in the user's voice following the instructions in comms.md
-5. Save to `1 | Wiki/1.6 | Exports/drafts/[title].md` with frontmatter linking to task and context
+5. Save to `Wiki/Exports/drafts/[title].md` with frontmatter linking to task and context
 
 ## Output
 

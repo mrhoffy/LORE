@@ -6,7 +6,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "echo '[SBOS] File written. Remember to update 1 | Wiki/index.md and append to 1 | Wiki/log.md if this was a wiki page.'"
+            "command": "echo '[LORE] File written. Remember to update 1 | Wiki/index.md and append to 1 | Wiki/log.md if this was a wiki page.'"
           }
         ]
       }
@@ -17,7 +17,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "echo '[SBOS] Running shell command. Confirm this is not destructive before proceeding.'"
+            "command": "echo '[LORE] Running shell command. Confirm this is not destructive before proceeding.'"
           }
         ]
       }

@@ -13,13 +13,13 @@ Weekly, or anytime something feels off with the system.
 
 ## Steps
 
-1. Read all files in `1 | Wiki/1.7 | System/health/`
+1. Read all files in `Wiki/~System/health/`
 2. Check each source: last sync date, items ingested, any errors
 3. Check each job: last run, last success, cadence
-4. Read `1 | Wiki/1.7 | System/logs/` for recent error patterns
-5. Scan `0 | Raw/` for files with `status: unprocessed` older than 24 hours
-6. Scan `0 | Raw/` for notes older than 7 days
-7. Check `1 | Wiki/` for pages with no inbound links (orphans)
+4. Read `Wiki/~System/logs/` for recent error patterns
+5. Scan `Raw/` for files with `status: unprocessed` older than 24 hours
+6. Scan `Raw/` for notes older than 7 days
+7. Check `Wiki/` for pages with no inbound links (orphans)
 
 ## Output
 
@@ -40,5 +40,5 @@ Each issue should include a recommended fix.
 
 ## What to Update Afterward
 
-- Create issue files in `1 | Wiki/1.7 | System/health/` for anything requiring follow-up
+- Create issue files in `Wiki/~System/health/` for anything requiring follow-up
 - Append to log: `## [YYYY-MM-DD] health | [Green/Yellow/Red — one-line summary]`

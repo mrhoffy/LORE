@@ -14,15 +14,15 @@ When a question needs a researched answer — "what do we know about X", "what w
 ## Retrieval Order
 
 1. Read `hot.md` for recent context
-2. Search `1 | Wiki/index.md` for relevant pages
+2. Search `Wiki/index.md` for relevant pages
 3. Read the 3-5 most relevant wiki pages
-4. If insufficient, search `0 | Raw/` for relevant source files
+4. If insufficient, search `Raw/` for relevant source files
 5. If still insufficient, use external search — but flag when doing so
 6. Never start from external sources if the wiki has relevant pages
 
 ## Output
 
-A direct answer with citations to wiki pages or raw sources. If the answer is substantial and novel, file it as a new Knowledge page in `1 | Wiki/1.3 | Knowledge/`.
+A direct answer with citations to wiki pages or raw sources. If the answer is substantial and novel, file it as a new Knowledge page in `Wiki/Knowledge/`.
 
 ## Safety Rules
 
@@ -33,5 +33,5 @@ A direct answer with citations to wiki pages or raw sources. If the answer is su
 ## What to Update Afterward
 
 - If the answer revealed a gap in the wiki, note it
-- If a new Analysis page was created, update `1 | Wiki/index.md`
+- If a new Analysis page was created, update `Wiki/index.md`
 - Append to log: `## [YYYY-MM-DD] query | [question summary]`

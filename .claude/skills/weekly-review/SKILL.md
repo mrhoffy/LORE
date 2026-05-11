@@ -13,12 +13,12 @@ Weekly — Monday to set direction, Friday to close the loop.
 
 ## Steps
 
-1. Read `1 | Wiki/log.md` (last 7 days of entries)
-2. Read `1 | Wiki/1.2 | Initiatives/done/` — scan all cards completed this week
-3. Read `1 | Wiki/1.2 | Initiatives/backlog/` and `1 | Wiki/1.2 | Initiatives/active/` — what is still in flight
-4. Read `1 | Wiki/1.7 | System/health/` — any failed sources or jobs
-5. Scan `1 | Wiki/1.1 | Network/` for anyone with `next_touchpoint` overdue
-6. Check `0 | Raw/` for loose notes older than 7 days
+1. Read `Wiki/log.md` (last 7 days of entries)
+2. Read `Wiki/Initiatives/done/` — scan all cards completed this week
+3. Read `Wiki/Initiatives/backlog/` and `Wiki/Initiatives/active/` — what is still in flight
+4. Read `Wiki/~System/health/` — any failed sources or jobs
+5. Scan `Wiki/Network/` for anyone with `next_touchpoint` overdue
+6. Check `Raw/` for loose notes older than 7 days
 
 ## Output
 

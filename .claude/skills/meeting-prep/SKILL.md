@@ -15,10 +15,10 @@ Before any meeting, call, or important conversation.
 ## Steps
 
 1. Identify all attendees
-2. Read each person's wiki page in `1 | Wiki/1.1 | Network/`
+2. Read each person's wiki page in `Wiki/Network/`
 3. Read any related project pages
-4. Search `0 | Raw/` for the most recent interaction with these people
-5. Check `1 | Wiki/1.2 | Initiatives/backlog/` and `1 | Wiki/1.2 | Initiatives/active/` for anything linked to these people or projects
+4. Search `Raw/` for the most recent interaction with these people
+5. Check `Wiki/Initiatives/backlog/` and `Wiki/Initiatives/active/` for anything linked to these people or projects
 6. Check `hot.md` for recent context
 
 ## Output

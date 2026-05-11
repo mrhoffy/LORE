@@ -16,16 +16,16 @@ When adding a new source for the first time, or troubleshooting an existing sync
 ## Steps
 
 1. Ask: which source, what API or export is available, what should be pulled, where raw files should land
-2. Check `9 | Reference/tools.md` to see if the source is already configured
-3. Create or update the sync script in `1 | Wiki/1.7 | System/sync/`
-4. Create a health file in `1 | Wiki/1.7 | System/health/`
-5. Update `9 | Reference/tools.md` with the new connection
+2. Check `~ Reference/tools.md` to see if the source is already configured
+3. Create or update the sync script in `Wiki/~System/sync/`
+4. Create a health file in `Wiki/~System/health/`
+5. Update `~ Reference/tools.md` with the new connection
 6. Write a test raw file to confirm the format is correct
 
 ## Output
 
-- A working sync script in `1 | Wiki/1.7 | System/sync/sync-[source].py`
-- A health tracking file in `1 | Wiki/1.7 | System/health/[source]-health.md`
+- A working sync script in `Wiki/~System/sync/sync-[source].py`
+- A health tracking file in `Wiki/~System/health/[source]-health.md`
 - Updated `tools.md`
 
 ## Safety Rules

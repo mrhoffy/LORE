@@ -5,7 +5,7 @@ description: Incorporate feedback on a completed output and close the task.
 
 ## When to Use
 
-After reviewing an output in `1 | Wiki/1.2 | Initiatives/active/` and having feedback or approval.
+After reviewing an output in `Wiki/Initiatives/active/` and having feedback or approval.
 
 ## Inputs
 
@@ -16,8 +16,8 @@ After reviewing an output in `1 | Wiki/1.2 | Initiatives/active/` and having fee
 
 1. Read the task card and the linked output file
 2. Apply feedback to revise the output
-3. If feedback reveals a reusable preference: update `9 | Reference/comms.md` or `preferences.md`
-4. If approved: move task card to `1 | Wiki/1.2 | Initiatives/done/`, update output status to `approved`
+3. If feedback reveals a reusable preference: update `~ Reference/comms.md` or `preferences.md`
+4. If approved: move task card to `Wiki/Initiatives/done/`, update output status to `approved`
 5. Update any wiki pages if new durable knowledge emerged
 6. Note what should be remembered for next time
 

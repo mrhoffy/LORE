@@ -15,15 +15,15 @@ When something needs action — from a meeting, email, decision, or direct reque
 ## Steps
 
 1. Identify the task clearly — what, why, definition of done
-2. Find linked wiki pages (people, projects) in `1 | Wiki/`
+2. Find linked wiki pages (people, projects) in `Wiki/`
 3. Write the handoff prompt — exact instructions Claude will use to produce output
 4. Create the card using the task card template
-5. Save to `1 | Wiki/1.2 | Initiatives/backlog/[task-title].md`
+5. Save to `Wiki/Initiatives/backlog/[task-title].md`
 6. Link back to source file if applicable
 
 ## Output
 
-A complete task card in `1 | Wiki/1.2 | Initiatives/backlog/`.
+A complete task card in `Wiki/Initiatives/backlog/`.
 
 ## Safety Rules
 

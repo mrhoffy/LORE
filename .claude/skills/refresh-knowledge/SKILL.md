@@ -5,7 +5,7 @@ description: Process new raw files into wiki pages. Use after new source materia
 
 ## When to Use
 
-After new files land in `0 | Raw/` from any source.
+After new files land in `Raw/` from any source.
 
 ## Inputs
 
@@ -15,12 +15,12 @@ After new files land in `0 | Raw/` from any source.
 
 1. Read each unprocessed raw file (check frontmatter `status: unprocessed`)
 2. Extract: people mentioned, projects mentioned, decisions made, open threads, key facts
-3. For each person: update or create their page in `1 | Wiki/1.1 | Network/`
-4. For each project: update or create their page in `1 | Wiki/1.2 | Initiatives/`
-5. For each decision: create a decision record in `1 | Wiki/1.4 | Ledger/`
-6. For each open thread: create a task card in `1 | Wiki/1.2 | Initiatives/backlog/` if action is needed
-7. Update `1 | Wiki/index.md` with any new pages
-8. Update `1 | Wiki/hot.md` with key new context
+3. For each person: update or create their page in `Wiki/Network/`
+4. For each project: update or create their page in `Wiki/Initiatives/`
+5. For each decision: create a decision record in `Wiki/Ledger/`
+6. For each open thread: create a task card in `Wiki/Initiatives/backlog/` if action is needed
+7. Update `Wiki/index.md` with any new pages
+8. Update `Wiki/hot.md` with key new context
 9. Mark raw file as processed: `status: processed`
 
 ## Output
